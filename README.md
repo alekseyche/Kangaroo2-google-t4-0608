@@ -1,3 +1,6 @@
+This is the same pollard's kangaroo but with a modified makefile to allow for compilation on newer machines. 
+It was no fun having to build on ubuntu 16 for g++4.8 support. Now it runs on the newer stuff. 
+
 # Pollard's kangaroo for SECPK1
 
 A Pollard's kangaroo interval ECDLP solver for SECP256K1 (based on VanitySearch engine).\
